@@ -38,9 +38,11 @@ The player picks up the blower while retaining the baseball bat and possesses tw
 
 The normal one-tool limit should remain enforced. The game should prevent the pickup or replace/drop the currently held tool.
 
+https://github.com/user-attachments/assets/ffd1b030-1e80-4f6a-a49a-b3d8852f1e36
+
 ## Evidence
 
-Video recording available.
+https://github.com/user-attachments/assets/f704887e-760b-4f54-a7bf-0e9228bb7a7f
 
 ## Related Issues
 
@@ -48,4 +50,5 @@ Video recording available.
 
 ## Notes
 
-Normal gameplay does not allow the player to simply pick up two tools. The issue depends on the interaction between item physics and the descending elevator.
+In videos I wrongly named air blower as vacuum.
+Normal gameplay does not allow the player to simply pick up two tools. The issue depends on the interaction between item physics and the descending elevator. Elevator blocks player movement and some interactions which might be why it is possible here.
