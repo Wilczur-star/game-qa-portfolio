@@ -47,7 +47,7 @@ The game version and hardware specifications were not recorded.
 
 ## Evidence
 
-Video recordings were captured for the reported findings. Media files are not included in this repository.
+Video recordings were captured for the reported findings.
 
 ## Limitations
 
