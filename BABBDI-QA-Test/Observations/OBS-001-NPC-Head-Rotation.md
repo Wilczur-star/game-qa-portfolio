@@ -27,4 +27,6 @@ The behavior appears unusual, but the game's visual style may make it intentiona
 
 ## Evidence
 
-Video recording available.
+https://github.com/user-attachments/assets/1368dda4-4794-4f21-ad2d-fef314b534a5
+
+
