@@ -45,5 +45,6 @@ https://github.com/user-attachments/assets/755dc753-7770-46e2-bb06-ee0666843303
 ## Notes
 
 A comparison test confirmed that the baseball bat alone does not create unlimited upward movement.
+
 https://github.com/user-attachments/assets/e9723ddf-5667-4532-982e-22b47db97b2f
 
