@@ -33,7 +33,7 @@ The elevator should prevent the player from entering invalid geometry, for examp
 
 ## Evidence
 
-Video recording available.
+https://github.com/user-attachments/assets/6e0b87dd-e171-466a-ac27-8c2a8706b3cc
 
 ## Notes
 
