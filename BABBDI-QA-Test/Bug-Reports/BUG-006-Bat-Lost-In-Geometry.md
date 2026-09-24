@@ -34,7 +34,8 @@ The tool should remain within reachable space or be repositioned to a valid loca
 
 ## Evidence
 
-Video recording available.
+https://github.com/user-attachments/assets/79d29950-b4a9-4259-b87e-e6afdcaf11c7
+
 
 ## Notes
 
