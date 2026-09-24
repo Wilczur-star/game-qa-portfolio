@@ -27,7 +27,7 @@
 
 ## Actual Result
 
-The NPC uses a farewell-type line during the first interaction. The greeting/introduction and information about taking the baseball bat appear during the second interaction.
+The NPC uses a farewell-type line during the first interaction. The introduction and information about taking the baseball bat appear during the second interaction.
 
 ## Expected Result
 
@@ -35,8 +35,10 @@ The introductory dialogue should appear during the first interaction, followed b
 
 ## Evidence
 
-Video recording available.
+https://github.com/user-attachments/assets/333e7369-5821-4ac8-8f25-d486fd0e047b
 
 ## Notes
 
 The issue was reproduced multiple times, including after a fresh start.
+I called the introduction message "tutorial message" since it's first NPC you should be talking to and it kinda tolds you that you can pick up things.
+Messages are repetable after "tutorial message" the "goodbye message" comes again and the other way around.
