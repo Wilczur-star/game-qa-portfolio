@@ -2,6 +2,11 @@
 
 This project documents a focused exploratory testing session of **BABBDI**. The goal was to examine core controls and settings, interactions, item handling, elevator behavior, collision boundaries, NPC dialogue, and unusual player actions.
 
+## Why this game?
+
+Game was suggested by AI as I didn't wanted to test games that I know very well and testing indie game has higher possibilities to find bugs quicker. Tho in this type of games, bugs often become a "feature" especially for speedruners.
+That being said, I have never heard of the game before, I didn't see any video or image of the gameplay before playing it by myself and all bugs written out here are found by myself. Seeing how easly I managed to get those bugs I expected them to be popular/well-known already.
+
 ## Test Overview
 
 | Item | Details |
@@ -34,4 +39,4 @@ This project documents a focused exploratory testing session of **BABBDI**. The 
 - [Bug Reports](Bug-Reports/)
 - [Observations](Observations/)
 
-The reports distinguish confirmed defects from behavior that may be intentional. No game version, hardware specification, or other unrecorded test data has been added.
+The reports distinguish confirmed defects from behavior that may be intentional. Game version 1.2.5. No hardware specification, or other unrecorded test data has been added.
