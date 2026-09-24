@@ -67,7 +67,7 @@ BUG-002 creates an invalid inventory state in which the player possesses both th
 
 ## Evidence
 
-Video recordings are available for the reported findings. They are not included in this repository.
+Video recordings are available for the reported findings.
 
 ## Limitations
 
