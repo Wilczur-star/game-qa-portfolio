@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/10c37bd9-9942-460a-a47b-906ff908c342
-
 # BUG-003 — Invalid two-tool state allows the player to launch above the map
 
 | Field | Value |
