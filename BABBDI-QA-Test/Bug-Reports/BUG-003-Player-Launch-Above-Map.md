@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/10c37bd9-9942-460a-a47b-906ff908c342
+
 # BUG-003 — Invalid two-tool state allows the player to launch above the map
 
 | Field | Value |
@@ -36,7 +40,7 @@ Tool physics should not allow the player to generate unlimited upward movement o
 
 ## Evidence
 
-Video recording available.
+https://github.com/user-attachments/assets/755dc753-7770-46e2-bb06-ee0666843303
 
 ## Related Issues
 
@@ -45,3 +49,5 @@ Video recording available.
 ## Notes
 
 A comparison test confirmed that the baseball bat alone does not create unlimited upward movement.
+https://github.com/user-attachments/assets/e9723ddf-5667-4532-982e-22b47db97b2f
+
