@@ -1,0 +1,17 @@
+# Current environment:
+- OS: Windows 10 Home 64-bit, 22H2, build 19045.7725, lang. Polish
+- CPU: Intel Core i7-12700F, 12 cores / 20 threads
+- GPU: NVIDIA GeForce RTX 4060, 8 GB VRAM
+- GPU Drivers: NVIDIA 610.74 (32.0.16.1074)
+- API: DirectX 12, Feature Level 12_1, WDDM 2.7
+- RAM: 32 GB — 2x16 GB Kingston DDR5
+- Motherboard: ASRock Z790 LiveMixer
+- BIOS: AMI 3.09, UEFI, 07.10.2022
+- Monitor 1: MSI Optix G241VC — 1920x1080, 75 Hz
+- Monitor 2: EV2316W — 1080x1920, 60 Hz
+- HDR: unsupported
+- HAGS: supported, OFF
+- Discs: Intel 256 GB SATA SSD + Hitachi 1 TB SATA + Toshiba 1 TB SATA HDD
+- Audio: MAD DOG 7.1 / Realtek HD Audio / NVIDIA HD Audio
+- Secure Boot: ON
+- Hypervisor: Present
